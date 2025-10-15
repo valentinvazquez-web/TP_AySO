@@ -1,0 +1,198 @@
+git --version
+cd<
+cd
+cd ~
+cd /c/Users/mariela
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com/valentinvazquez-web/AySO.git
+cd AySO
+pwd
+ls -l
+cd
+mkdir-p repogit
+which mkdir
+echo $PATH
+mkdir -p repogit
+cd ~/repogit
+git@github.com:valentinvazquez/TP_AySO.git
+cd ~/repogit
+git@github.com:valentinvazquez/TP_AySO.git
+cd ~
+pwd
+ls
+cd repogit
+git clone git@github.com:valentinvazquez/TP_AySO.git
+ls
+cd repogit
+pwd
+ls
+cd TP_AySO
+pwd
+ls -l
+cd
+mkdir repogit
+mkdir repogit
+git clone git@github.com:valentinvazquez-web/TP_AySO
+ssh -T git@github.com
+git clone https://github.com/valentinvazquez-web/TP_AySO.git
+cd TP_AySO
+pwd
+ls -l
+cat /etc/mtab
+man grep
+grep SYSFS etc/mtab
+grep home_url /etc/mmtab
+grep -i Sysfs /etc/mtab
+grep -i Sysfs /ect/mtab > datos_sys.txt
+grep -i Sysfs /etc/mtab > datos_sys.txt
+whoami
+echo "Usuario=$(whoami) > datos_usuario.txt
+cat datos_usuario.txt
+
+
+
+
+whoami
+pwd
+echo "Usuario=$(whoami) > datos_usuario.txt
+cat datos_usuario.txt
+whoami
+pwd
+cat datos_usuario.txt
+whoami
+echo 
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git ad
+git add
+git add .
+git config --global user.email "valentinvazquez1105@gmail.com"
+git config --global user.name "valentin"
+git commit -m "ADD: agregado 1er ejercicio sobre "datos_usuario.txt"
+git status
+git push
+cat <<EOF > README.md
+
+
+
+
+pwd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git commit -m "ADD: agregado 1er ejercicio sobre "datos_usuario.txt"
+git status
+git push
+cat <<EOF > README.md
+
+
+
+
+pwd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git push
+
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:valentinvazquez-web/TP_AySO.git
+git clone https://github.com/valentinvazquez-web/TP_AySO.git
+cd TP-AySO
+cd TP_AySO
+pwd
+ls -l
+cat /etc/mtab
+man grep
+grep SYSFS /etc/mtab
+grep home_url /etc/os-release
+grep -i Sysfs /etc/mtab
+grep -i Sysfs /etc/mtab
+grep -i Sysfs /etc/mtab > datos_sys.txt
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git config --global user.email "valentinvazquez1105gmail.com"
+git config --global user.name "Valentinvazquez-web"
+git commit -m "ADD agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+git push
+grep $(whoami) /etc/passwd | awk -F ´{print $5, $6}´ >> datos_usuario.txt
+cat datos_usuario.txt
+grep $(whoami) /etc/passwd | awk -F: {*Ç¨_:;.LÑ_¨¨*Ç*¿?{{]++ççç+´+,.,.,ñl-.-´+
+grep $(whoami) /etc/passwd | awk -F: ´{print $5,$6}´ >> datos_usuario.txt
+grep "$(whoami)" /etc/passwd | awk -F: ´{print $5, $6}´ >> datos_usuario.txt
+grep $(whoami) /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuario.txt
+ls /etc/passwd
+/etc/passwd
+echo "Comentario:$USER" >> datos_usuario.txt
+echo "Home: $HOME" >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario-ç.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo informacion del Usuario"
+git push
+grep $(whoami) | awk -f: '{print$5}' >> datos-usuario.txt
+cat <<EOF > README.md
+Alumno: valentin
+Division: 116
+Turno: Mañana
+E0F
+
+git add README.md datos_usuario.txt
+git commit-m "ADD: Añadiendo eadme y datos de usuario"
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git add README.md datos_usuario,txt
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/Arquitectura/Scripts ~/Arquitectura/Documentos ~/ArquitecturaPruebas
+mkdir -p ~/Arquitectura/Scripts ~/Arquitectura/Documentos ~/Arquitectura/Prueba
+echo 'mkdir -p ~/Arquitectura/Scripts ~/Arquitectura/Documentos ~/Arquitectura/Prueba > script_dir.sh
+chmod +x script_dir.sh
+./script_dir.sh
+git add script_dir.sh
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
