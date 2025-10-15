@@ -196,3 +196,81 @@ git add script_dir.sh
 git commit -m "ADD: Añadiendo script"
 git push
 history -a
+cp ~/.bash_history ./Historial_comandos_vazquez.txt
+git add .
+git commit -m "ADD: Historial de comandos de vazquez"
+git push
+cd
+mkdir repogit
+cd repogit
+git clone https://github.com/valentinvazquez-web/TP_AySO
+git clone https:// github.com/valentinvazquez-web/TP_AySO.git
+git clone https://github.com/valentinvazquez-web/TP_AySO.git
+git clone https://github.com/valentinvazquez-web/TP_AySO.git
+cd
+mkdir repogit
+cd repogit
+cd TP_AySO
+pwd
+ls -l
+cat /etc/mtab
+man grep
+sudo apt update
+wich sudo
+which sudo
+uname -a
+which sudo
+cd
+mkdir repogit
+cd TP_AySO
+cd repogit
+cd
+cd repogit
+cd TP_AySO
+pwd
+ls -l
+cat /etc/mtab
+man grep
+grep SYSFS /etc/mtab
+grep home_url /etc/or-release
+grep home_url /etc/os-release
+grep -i Sysfs /etc/mtab
+grep -i Sysfs /etc/mtab > datos_sys.txt
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git config --global user.email "valentinvazquez1105@gmail.com"
+git config --global user.name "valentinvazquez-web"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+grep $(whoami) /etc/passwd | awk -F: '{print $5}' >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo informacion del Usuario"
+git push
+cat <<EOS > README.md
+Alumno: valentin
+Division: 116
+Turno: mañana
+EOF
+EOS
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/Arquitectura/Scripts ~/Arquitectura/Documentos ~/Arquitectura/Pruebas
+echo 'mkdir -p ~/Arquitectura/Scripts ~/Aritectura/Documentos ~/Arquitectura
+echo 'mkdir -p ~/Arquitectura/Scrpits ~/Arquitectura/Documentos ~/Aquitectura/Pruebas > script_dir.sh
+chod +xscript_dir.sh
+./script_dir.sh
+chmod +x script_dir.sh
+./script_dir.sh
+git add script_dir.sh
+git commir -m "ADD: Añadiendo script"
+git push
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
