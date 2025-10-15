@@ -1,1 +1,3 @@
 Usuario=Marie
+Comentario:
+Home: /c/Users/Marie
